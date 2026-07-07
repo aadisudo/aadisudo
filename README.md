@@ -48,8 +48,6 @@
   <img src="https://raw.githubusercontent.com/aadisudo/aadisudo/output/github-contribution-grid-snake.svg" />
 </p>
 
-> To activate this, add the [Snake GitHub Action](https://github.com/Platane/snk) to your profile repo.
-
 ---
 
 ### 🌐 Connect With Me
@@ -61,9 +59,5 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aadisudo&color=blueviolet&style=flat" alt="Profile views"/>
-</p>
 
 <p align="center"><i>⭐ "Code. Break. Fix. Repeat." ⭐</i></p>
