@@ -69,7 +69,7 @@
   <img src="https://media.giphy.com/media/hEc4k5pN17GZq/giphy.gif" width="350"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=FF61F6&center=true&vCenter=true&width=600&lines=Fun+Fact%3A+%5BCtrl+Z is my life motto%5D;Debugging+is+my+cardio+%F0%9F%98%84;Still+counting+semicolons+I've+missed" alt="Fun Fact Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=FF61F6&center=true&vCenter=true&width=600&lines=Fun+Fact%3A+%5BCtrl+Z+is+my+life+motto%5D;Debugging+is+my+cardio+%F0%9F%98%84;Still+counting+semicolons+I've+missed" alt="Fun Fact Typing" />
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
