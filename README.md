@@ -31,13 +31,16 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" width="500"/>
 </p>
+<p align="center"><img src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8" width="450"/>
+</p>
 <p align="center">
-  <em>💻 Always exploring new tools to build cleaner, faster, better-looking interfaces.</em>
 </p>
 ---
 
 ### 📊 GitHub Stats
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadisudo&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadisudo&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
